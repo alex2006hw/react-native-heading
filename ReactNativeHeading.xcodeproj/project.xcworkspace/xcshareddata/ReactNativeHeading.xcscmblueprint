@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F4EA675952FCB322E17E8A69C250A5AFA650FCDD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F4EA675952FCB322E17E8A69C250A5AFA650FCDD" : 9223372036854775807,
+    "E1DCA263530A25226E35EC49A5FA999B0FE20855" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF38C1CF-5C47-4CD5-AC06-6EEC6E509061",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F4EA675952FCB322E17E8A69C250A5AFA650FCDD" : "react-native-heading\/",
+    "E1DCA263530A25226E35EC49A5FA999B0FE20855" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ReactNativeHeading",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ReactNativeHeading.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:develpl\/rn15.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1DCA263530A25226E35EC49A5FA999B0FE20855"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alex2006hw\/react-native-heading.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4EA675952FCB322E17E8A69C250A5AFA650FCDD"
+    }
+  ]
+}
